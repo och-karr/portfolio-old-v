@@ -45,13 +45,17 @@
             display: none;
         }
 
+        .my-navbar-collapse {
+            height: 80px;
+        }
+
         .my-nav-ul {
             
             .my-link {
-                padding: 0;
+                padding: 5px 20px;
 
                 .go-to-section {
-                    font-size: 2.2em;
+                    font-size: 3em;
                 }
             }
         }

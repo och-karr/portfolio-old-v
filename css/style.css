@@ -10,7 +10,7 @@ body { margin: auto; font-family: 'Poppins', sans-serif; font-size: 0.65em; over
 /* ---NAVBAR--- */
 .my-navbar { background: rgba(255, 255, 255, 0.836); border: none; }
 
-.my-navbar .my-container-fluid { max-width: 1300px; min-width: 400px; }
+.my-navbar .my-container-fluid { max-width: 1300px; min-width: 300px; }
 
 .my-navbar .my-buttons { width: 30%; padding: 12px 0; }
 
@@ -27,7 +27,7 @@ body { margin: auto; font-family: 'Poppins', sans-serif; font-size: 0.65em; over
 .my-navbar .my-link .go-to-section:hover { font-weight: 500; transform: scale(1.1); }
 
 /* ---SECTION--- */
-section { width: 75%; max-width: 1200px; min-width: 400px; margin: auto; padding-top: 50px; line-height: 5em; }
+section { width: 75%; max-width: 1200px; min-width: 300px; margin: auto; padding-top: 50px; padding-bottom: 100px; line-height: 5em; }
 
 section .line { background: #F34A53; border: 1px solid #F34A53; border-radius: 20%; width: 6%; height: 5px; margin: 12px auto; }
 
@@ -71,7 +71,7 @@ section .basic-text { font-size: 2.5em; text-align: justify; }
 .projects-section .projects-container .image-container:hover .pic-on { display: -ms-flexbox; display: flex; }
 
 /* ---TECHNOLOGIES-SECTION--- */
-.technologies-section .go-to-example { font-style: italic; color: #333333; }
+.technologies-section .go-to-example { font-style: italic; color: #333333; text-decoration: underline; }
 
 .technologies-section .big { font-size: 1.2em; font-weight: 600; }
 

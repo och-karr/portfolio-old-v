@@ -63,7 +63,7 @@ body {
 
     .my-container-fluid {
         max-width: 1300px;
-        min-width: 400px;
+        min-width: 300px; 
     }
 
     .my-buttons {
@@ -106,9 +106,10 @@ body {
 section {
     width: 75%;
     max-width: 1200px;
-    min-width: 400px;
+    min-width: 300px;
     margin: auto;
     padding-top: 50px;
+    padding-bottom: 100px;
     line-height: 5em;
 
     .line {
@@ -258,6 +259,7 @@ section {
     .go-to-example {
         font-style: italic;
         color: $grey-color;
+        text-decoration: underline;
     }
 
     .big {
