@@ -91,10 +91,6 @@
 
     .section {
         padding-top: 70px;
-    
-        .line {
-            width: 13%;
-        }
     }
 
     .my-navbar {
@@ -107,13 +103,11 @@
 @media (max-width: 576px) {
 
     #square1 {
-        top: 5%;
-        right: -110%;
+        display: none;
     }
 
     #square2 {
-        top: 55%;
-        left: -110%;
+        display: none;
     }
 
     .my-navbar {

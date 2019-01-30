@@ -17,11 +17,10 @@
 @media (max-width: 768px) { #square1 { top: 5%; right: -90%; }
   #square2 { top: 60%; left: -90%; }
   .section { padding-top: 70px; }
-  .section .line { width: 13%; }
   .my-navbar .navbar-collapse .my-nav-ul { display: flex; justify-content: space-around; flex-wrap: wrap; } }
 
-@media (max-width: 576px) { #square1 { top: 5%; right: -110%; }
-  #square2 { top: 55%; left: -110%; }
+@media (max-width: 576px) { #square1 { display: none; }
+  #square2 { display: none; }
   .my-navbar .navbar-collapse .my-nav-ul .go-to-section { padding: 2px; }
   .section { width: 85%; line-height: 4em; }
   .contact-section .contact-columns .my-data .my-btn-container { padding-left: 0; }
