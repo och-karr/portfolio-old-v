@@ -1,0 +1,38 @@
+Strona:
+
+- deklaracja dokumentu html V
+- dodaæ max-width V
+- usun¹æ fb! V
+- lang V
+- div section na section V
+- klasê dla footera V
+- dodaæ przestrzenie miêdzy sekcjami wiêksze V
+- powiêkszyæ menu dla tel V
+- podkreœlenia dla linków mo¿e V
+1. nie dawa³bym prywatnego fb V
+- kreseczka jako pseudoelement V
+
+- posz³o za nisko imiê i nazwisko
+
+
+Kodilla:
+
+5. mo¿na popracowaæ nad stopk¹
+kod poprawny
+tylko w CSS niech sobie przejrzy jeszcze listê ostrze¿eñ: http://csslint.net (edited)
+
+https://drive.google.com/file/d/1Ujjly2JBsDbzRNOrf89zDsRa6iIziL-Q/view?fbclid=IwAR0OLqehkXvPlZ1zH427Xjwx6fx3giudp1oulhcAtinhbtA-C6cnKnfIZKQ
+
+- lupka i link na teksty ?
+- wyrzuciæ niepotrzebne puste linie i komentarze
+- trochê dalej od krawiêdzi menu
+- tryb nocny
+- j. ang
+- naje¿d¿anie tekstów wraz z przewijaniem strony
+
+NIE ZROBIÊ:
+
+- jeœli np. dla klasy .image-container masz ustawione przejœcie (transition: 0.4s) to dla pozosta³ych warstw, na których znajduje siê tekst te¿ warto by³oby takie przejœcie zrobiæ, ale to taki szczegó³
+
+- po najechaniu na projekt zakrywka czerwona + biale teksty
+
