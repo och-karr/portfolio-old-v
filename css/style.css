@@ -36,7 +36,9 @@ section .section-title:after { content: " "; display: block; background: #F34A53
 section .basic-text { font-size: 2.5em; text-align: justify; }
 
 /* ---START-SECTION--- */
-.start-section { height: 100vh; display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; -ms-flex-pack: center; justify-content: center; padding-bottom: 100px; }
+.start-section { padding-top: 0; height: 100vh; display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; -ms-flex-pack: center; justify-content: center; padding-bottom: 100px; }
+
+.start-section .name-title-container { padding-bottom: 80px; }
 
 .start-section .name-title-container .name-title { font-size: 8em; text-align: center; }
 
