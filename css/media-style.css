@@ -1,5 +1,7 @@
 /* ---MIXINS--- */
 /* ---MEDIA--- */
+@media (min-width: 1201px) { .container .projects-section .projects-container .image-container { margin:10px; } }
+
 @media (max-width: 1200px) { .contact-section .contact-columns .my-data .my-btn-container { padding-left: 0; } }
 
 @media (max-width: 992px) { #square1 { top: 12%; right: -60%; }
